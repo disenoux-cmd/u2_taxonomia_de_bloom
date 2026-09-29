@@ -121,7 +121,7 @@
 ### Pantalla 6: Cierre Metacognitivo (Harvard \- Project Zero) \[26\]
 
 * **Instrucción Final:**  
-  *"Para consolidar lo aprendido, te invitamos a hacer una pausa activa y reflexionar sobre tu propia práctica de planeación \[81, 162\]. Abre tu **Bitácora de Metacognición Digital** en Moodle y completa la siguiente rutina de pensamiento visible del Project Zero de la Universidad de Harvard \[26, 222\]:"*  
+  *"Para consolidar lo aprendido, te invitamos a hacer una pausa activa, reflexionar sobre tu propia práctica de planeación y pensar cómo aplicarás estos aprendizajes en tu próxima clase \[81, 162\]. Completa la siguiente rutina de pensamiento visible del Project Zero de la Universidad de Harvard \[26, 222\]:"*
 * **Rutina: "Antes pensaba... Ahora sé"** \[222\]  
   1. **Antes pensaba** que el rigor en los objetivos de la clase significaba...  
   2. **Ahora sé** que utilizar la jerarquía de la Taxonomía de Bloom me ayuda a proteger y optimizar el tiempo efectivo de aprendizaje porque...
@@ -133,4 +133,3 @@
 2. **Paleta de Colores Institucional:** Utilizar la gama de colores oficiales de Enseña por Colombia (Azul institucional, Naranja de acento y Gris de fondo).  
 3. **Interactividad Dinámica:** Utilizar efectos de aparición y desvanecimiento suaves para la escalera de Bloom, revelando los peldaños de abajo hacia arriba para enfatizar el carácter acumulativo del aprendizaje \[117\].  
 4. **Botones de Descarga:** Incluir en la pantalla de los 6 peldaños un botón para descargar un documento PDF de bolsillo que contenga la **Lista de Verbos y Acciones de Evidencia** para que la o el Eco lo tenga a la mano al momento de planear durante todo su año escolar \[315\].
-
